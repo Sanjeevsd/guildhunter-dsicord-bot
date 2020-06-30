@@ -1,0 +1,6 @@
+git+https://github.com/Rapptz/discord.py
+youtube_dl
+ffmpeg
+asyncio
+requests
+pynacl
