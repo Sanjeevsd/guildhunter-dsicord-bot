@@ -242,4 +242,4 @@ def search(author, arg):
             'title': info['title'], 'duration': info['duration']}
 
 
-client.run("NzI0ODU1MjQ3MjU1NjMzOTIy.XvGQwQ.UhIoQdKCzU6gLD6JVQZaEtTZD9E")
+client.run("")
